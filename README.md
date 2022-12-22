@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an AI Engineer Intern who is passionate about Coding, Data structures and Algorithms <br><br>I do not think AI will replace human being, it just gives the reasons, motivations to keep going up and seeking for new oppotunities in not only Information Technology but also other profession 
+I'm an AI Engineer Intern who is passionate about Coding, Data structures and Algorithms <br><br>I do not think AI will replace human being, it just gives the reasons, motivations to keep going up and seeking for new opportunities in not only Information Technology but also other profession 
 
 
 ## 🌐 Socials:
